@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**anatooly/anatooly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code>React</code>
+<code>React Native</code>
+<code>React Query</code>
+<code>Redux Toolkit</code>
+<code>GraphQL</code>
+<code>Relay</code>
+<code>Apollo</code>
+<code>Next.js</code>
+<code>JavaScript</code>
+<code>TypeScript</code>
+<code>PHP</code>
+<code>Interviewing</code>
+<code>Mentoring</code>
+<code>Consultation</code>
